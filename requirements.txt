@@ -1,0 +1,18 @@
+# Voice-Activated AI Chatbot — Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core voice I/O
+SpeechRecognition>=3.10.0
+pyttsx3>=2.90
+pyaudio>=0.2.13          # Required by SpeechRecognition for microphone input
+
+# Knowledge & Search
+wikipedia>=1.4.0
+
+# Utilities (mostly stdlib, listed for clarity)
+# datetime, webbrowser, os, sys, time, subprocess, json, re, threading
+# are all part of Python's standard library — no install needed.
+
+# Optional: Windows volume control
+# pycaw>=20181226         # Uncomment on Windows for volume commands
+# comtypes>=1.2.0         # Uncomment on Windows for volume commands
