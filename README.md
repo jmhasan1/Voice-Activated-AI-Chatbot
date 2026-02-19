@@ -1,11 +1,11 @@
-# Voice-Activated AI Chatbot 🎙️🤖
+# Voice-Activated AI Chatbot
 
 A fully-featured, voice-controlled personal assistant built with Python.  
 Supports speech recognition, text-to-speech, Wikipedia lookups, web browsing, system automation, notes, to-do lists, and more.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 voice_chatbot/
@@ -20,7 +20,7 @@ voice_chatbot/
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 ### 1. Prerequisites
 - **Python 3.8+** — [Download here](https://www.python.org/downloads/)
@@ -206,7 +206,7 @@ All other modules (`datetime`, `os`, `webbrowser`, `json`, etc.) are Python stan
 
 ---
 
-## 🚀 Optional Enhancements
+## Optional Enhancements
 
 - **OpenAI / Gemini integration** — replace the fallback response with an LLM for open-ended Q&A
 - **Hotword detection** — use `pvporcupine` to activate on "Hey Aria" without pressing a button

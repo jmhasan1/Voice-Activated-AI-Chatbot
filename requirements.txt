@@ -1,5 +1,5 @@
 # Voice-Activated AI Chatbot — Dependencies
-# Install with: pip install -r requirements.txt
+
 
 # Core voice I/O
 SpeechRecognition>=3.10.0

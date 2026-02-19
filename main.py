@@ -19,9 +19,9 @@ import re
 import threading
 from pathlib import Path
 
-# ──────────────────────────────────────────────
+# -----------------------------------------------------
 # CONFIGURATION
-# ──────────────────────────────────────────────
+# -----------------------------------------------------
 CONFIG_FILE = Path(__file__).parent / "data" / "config.json"
 NOTES_FILE  = Path(__file__).parent / "data" / "notes.txt"
 TODO_FILE   = Path(__file__).parent / "data" / "todo.json"

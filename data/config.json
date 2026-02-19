@@ -1,0 +1,12 @@
+{
+    "assistant_name": "Aria",
+    "user_name": "User",
+    "voice_rate": 175,
+    "voice_volume": 1.0,
+    "language": "en-US",
+    "pause_threshold": 0.8,
+    "energy_threshold": 300,
+    "dynamic_energy": true,
+    "timeout": 5,
+    "phrase_time_limit": 10
+}
